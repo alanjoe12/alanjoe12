@@ -11,13 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Database-InfluxDB-informational?style=flat&logo=influxdb&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Frontend-CSS-informational?style=flat&logo=css&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=sklearn&logoColor=white&color=2CD4A7)
