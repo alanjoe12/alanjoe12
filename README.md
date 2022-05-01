@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Editor-VS-Code-informational?style=flat&logo=vscode&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
-
+![](https://img.shields.io/badge/DeepLearning-PyTorch-informational?style=flat&logo=keras&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=sklearn&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Matplotlib-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
